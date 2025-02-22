@@ -3,6 +3,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]
+  - - <b>Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
 <!--
 **SRobes93/SRobes93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
