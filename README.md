@@ -1,4 +1,4 @@
-## Hi there my name is Sir👋
+## Hi, I'm Sir, an IT Profressional👋
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
