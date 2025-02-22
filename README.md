@@ -1,5 +1,8 @@
 ## Hi there my name is Sir👋
+<h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation]
 <!--
 **SRobes93/SRobes93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
